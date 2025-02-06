@@ -59,27 +59,9 @@ O **Sijia** é uma plataforma interativa que utiliza vídeos explicativos, jogos
 
 ---
 
-## 📸 Capturas de Tela
-
-Aqui estão algumas imagens de como o **Sijia** se apresenta para os usuários:
-
-![Página Inicial](./assets/imagens/pagina_inicial.png)
-*Página inicial com os vídeos explicativos*
-
-![Jogo Quiz](./assets/imagens/jogo_quiz.png)
-*Exemplo do Jogo de Quiz*
-
----
-
 ## 🧑‍💻 Contribuições
 
 Sinta-se à vontade para contribuir com este projeto! Se você tem alguma sugestão de melhoria ou encontrou algum erro, abra uma **issue** ou envie um **pull request**.
-
----
-
-## 📑 Licença
-
-Este projeto é licenciado sob a [MIT License](./LICENSE).
 
 ---
 
@@ -91,14 +73,15 @@ Gostaríamos de agradecer ao **Hospital das Clínicas** e ao **Instituto da Cria
 
 ## 📬 Contato
 
-Se você tiver dúvidas, entre em contato através do meu [email](mailto:seu-email@dominio.com).
+Se você tiver dúvidas, entre em contato através do meu [email](mailto:engfelipeferreira@icloud.com).
 
 ---
 
 ## 📍 Colaboradores
 
-- **Desenvolvedor Front-End**: [Seu Nome]
-- **Instituto da Criança (ICr)**: Cliente
+- **Desenvolvedor Front-End**: [Felipe Casquet Ferreira]
+- **Desenvolvedor Front-End**: [Gilson Dias Ramos]
+- **Desenvolvedor Front-End**: [Gustavo Bezerra]
 - **Hospital das Clínicas**: Parceiro
 
 ---
