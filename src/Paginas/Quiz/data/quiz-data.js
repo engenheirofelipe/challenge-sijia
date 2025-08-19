@@ -115,7 +115,7 @@ export let questoesGeral =  [
     question: "Que som você ouve durante o exame de raio-X?",
     answers: [
       "Um clique suave como uma câmera", 
-      "Onde você está, BB?", 
+      "Som de grito?", 
       "Som de rio correndo", 
       "Som de chuva",
     ],
